@@ -30,4 +30,4 @@ Just include the follow in your pom.xml:
 you can:
 
 1. Use the `SimpleEmailMessage` class, wich gives you a basic implementation of the library.
-2. Do your on implementation (or implementations) of the abstract `EmailMessage` class.
+2. Do your own implementation (or implementations) of the abstract `EmailMessage` class.
