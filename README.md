@@ -22,7 +22,7 @@ Just include the follow in your pom.xml:
         <dependency>
             <groupId>com.mavericksoft</groupId>
             <artifactId>mail</artifactId>
-            <version>1.0-SNAPSHOT<</version>
+            <version>1.0-SNAPSHOT</version>
         </dependency>
 ```       
 ### To get started
